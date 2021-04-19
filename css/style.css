@@ -46,3 +46,7 @@ font-size: small;
     width: 100%;
 }
 
+.evidenziato {
+    background-color: yellow;
+}
+
