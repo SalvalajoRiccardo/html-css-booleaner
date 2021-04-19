@@ -5,10 +5,17 @@ margin: auto;
 }
 
 /* immagine header */
-#imglogo {
-    width: ;
-    background-image: url("img/pattern.png");
+header {
+    background-color: dodgerblue;
+    background-image: url('../img/pattern.png');
     background-repeat: repeat-x;
+    background-size: auto;
 
+}
+
+/* logo header */
+#imglogo {
+    width: 20%;
+    height: auto;
 
 }
