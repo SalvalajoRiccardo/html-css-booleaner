@@ -1,0 +1,14 @@
+/* regola comune */
+.contenitore {
+width: 50%;
+margin: auto;
+}
+
+/* immagine header */
+#imglogo {
+    width: ;
+    background-image: url("img/pattern.png");
+    background-repeat: repeat-x;
+
+
+}
