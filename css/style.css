@@ -6,16 +6,36 @@ margin: auto;
 
 /* immagine header */
 header {
+    height: 70px;
     background-color: dodgerblue;
     background-image: url('../img/pattern.png');
     background-repeat: repeat-x;
-    background-size: auto;
+    background-size: 20%;
 
 }
 
 /* logo header */
 #imglogo {
-    width: 20%;
+    width: 100px;
     height: auto;
 
 }
+
+/* FORMATTAZIONE TITOLO */
+h1 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+/* scritta azzurra */
+#scrittaazzurra {
+    color: lightskyblue;
+
+
+}
+
+.scrittapiccola {
+font-size: small;
+
+}
+
