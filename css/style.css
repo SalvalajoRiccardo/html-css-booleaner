@@ -39,3 +39,9 @@ font-size: small;
 
 }
 
+/* immagini tim */
+.imgtim {
+    display: inline-block;
+    width: 100%;
+}
+
